@@ -1,2 +1,2 @@
-# react-template
-My react quick start template
+# React Template
+To get started, run `npm install` followed by `npm start`.
